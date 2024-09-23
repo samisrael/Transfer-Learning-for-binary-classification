@@ -26,7 +26,10 @@ Train the model using the training dataset with a custom callback to stop traini
 <br/>
 
 ## PROGRAM
-
+```
+Name : Sam Israel D
+Reg. No : 212222230128
+```
 #### Import all the necessary files!
 ```python
 import os
